@@ -16,7 +16,7 @@ class Solution {
 					c=1;
 					list.get(i).add((int)c);
 				}
-				else
+				else //it
 				{
 					c=c*(i-j+1)/j;
 					list.get(i).add((int)c);
